@@ -15,4 +15,4 @@ This mobile application is used to track the development of the coronavirus by c
 
 ##### Provincial data
 ![photo_2021-03-19_12-02-42](https://user-images.githubusercontent.com/43955533/111771220-b60ca800-88ab-11eb-8b76-edfce86ef2c6.jpg)
- information
+
